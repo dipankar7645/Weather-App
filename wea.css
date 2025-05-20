@@ -6,6 +6,7 @@
 }
 body{
     background-color: #222;
+    background-image: url('bgimage.avif');
 }
 .card{
     width: 90%;
